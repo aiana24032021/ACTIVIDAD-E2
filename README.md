@@ -58,7 +58,7 @@ Finalmente, el programa mostrara el resultado de aquella suma.
 
 #### Salida:
 `
-PV_r=PV_a1+PV_b2;
+Em_r=Em_a1+Em_b2;
 `
 
 ### Cuenta Moneda: 
